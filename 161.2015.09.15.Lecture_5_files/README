@@ -1,0 +1,12 @@
+These are the C source files that were written or modified during
+Lecture 5 on September 15, 2015.
+
+The file 161.2015.09.15.Lecture_5.html is a copy of the slides.
+
+The hello directory has a small test program that shows how to get the
+number of elements in a static array using sizeof.
+
+The cs161-proj1 directory is based on the source code for project 1. The
+main.c file is modified to add "encode" and "decode" subcommands. You
+don't need these subcommands to complete the project. They are just an
+example of adding functionality to a program.
